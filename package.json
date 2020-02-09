@@ -1,9 +1,9 @@
 {
-  "name": "@danleyb2/web-component",
+  "name": "@danleyb2/rich-text-editor",
   "description": "",
   "repository": {
     "type": "git",
-    "url": "https://github.com/danleyb2/web-component.git"
+    "url": "https://github.com/danleyb2/rich-text-editor.git"
   },
   "version": "0.0.6",
   "main": "dist/es6-unbundled/index.js",
