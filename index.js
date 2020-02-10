@@ -3,12 +3,12 @@ import {init} from './src/pell';
 
 class RichTextEditor extends LitElement {
   static get properties() {
-    return { name: { type: String } };
+    return { value: { type: String } };
   }
 
   constructor() {
     super();
-    this.name = 'World';
+    this.value = '';
   }
 
     static get styles() {
