@@ -23,7 +23,7 @@
     "polymer-cli": "latest",
     "@polymer/test-fixture": "^4.0.1",
     "gulp": "^4.0.0",
-    "gulp-imagemin": "^6.1.0",
+    "gulp-imagemin": "^9.2.0",
     "gulp-rename": "^1.2.3",
     "gulp-replace": "^1.0.0",
     "merge-stream": "^2.0.0"
